@@ -250,7 +250,7 @@ idk7.TextSize = 20.000
 
 idk7.MouseButton1Down:connect(function()
 
-loadstring(game:HttpGet("https://pastebin.com/raw/KAz3Ksk5"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/A52C9kCU"))()
 
 end)
 
