@@ -1,6 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 
-	Title = "سكربت ل مابات كثيرة";	Text = "by 亗MR๛MAHDI👑亗 AND 亗MR๛HAMZA🔥亗 XII#3550";
+	Title = "✨سكربت لكل مبات✨";	Text = "by 亗MR๛MAHDI👑亗 AND 亗MR๛HAMZA🔥亗 XII#3550";
 
 	Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
 
@@ -52,7 +52,7 @@ ScreenGui.ResetOnSpawn = false
 
 Frame.Parent = ScreenGui
 
-Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 255)
+Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 
 Frame.Position = UDim2.new(0.369825214, 0, 0.423832893, 0)
 
@@ -64,7 +64,7 @@ Frame.Draggable = true
 
 TextButton.Parent = Frame
 
-TextButton.BackgroundColor3 = Color3.fromRGB(0, 0, 255)
+TextButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 
 TextButton.Position = UDim2.new(0.01, 0, 0.00832893, 0)
 
@@ -74,13 +74,13 @@ TextButton.Font = Enum.Font.Cartoon
 
 TextButton.Text = "👑HAM亗MAH👑"
 
-TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 
 TextButton.TextSize = 40.000
 
 idk.Parent = Frame
 
-idk.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk.BackgroundColor3 = Color3.fromRGB(255, 0198, 0)
 
 idk.Position = UDim2.new(0.01, 0, 0.2, 0)
 
@@ -102,7 +102,7 @@ end)
 
 idk1.Parent = Frame
 
-idk1.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk1.BackgroundColor3 = Color3.fromRGB(255, 198, 0)
 
 idk1.Position = UDim2.new(0.01, 0, 0.4, 0)
 
@@ -124,7 +124,7 @@ end)
 
 idk2.Parent = Frame
 
-idk2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk2.BackgroundColor3 = Color3.fromRGB(255, 198, 0)
 
 idk2.Position = UDim2.new(0.34, 0, 0.4, 0)
 
@@ -146,7 +146,7 @@ end)
 
 idk3.Parent = Frame
 
-idk3.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk3.BackgroundColor3 = Color3.fromRGB(255, 198, 0)
 
 idk3.Position = UDim2.new(0.34, 0, 0.2, 0)
 
@@ -168,7 +168,7 @@ end)
 
 idk4.Parent = F
 
-idk4.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk4.BackgroundColor3 = Color3.fromRGB(255, 198, 0)
 
 idk4.Position = UDim2.new(0.69, 0, 0.2, 0)
 
@@ -190,7 +190,7 @@ end)
 
 idk5.Parent = Frame
 
-idk5.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk5.BackgroundColor3 = Color3.fromRGB(255, 198, 0)
 
 idk5.Position = UDim2.new(0.69, 0, 0.4, 0)
 
@@ -212,7 +212,7 @@ end)
 
 idk6.Parent = Frame
 
-idk6.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk6.BackgroundColor3 = Color3.fromRGB(255, 198, 0)
 
 idk6.Position = UDim2.new(0.69, 0, 0.8, 0)
 
@@ -234,7 +234,7 @@ end)
 
 idk7.Parent = Frame
 
-idk7.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk7.BackgroundColor3 = Color3.fromRGB(255, 198, 0)
 
 idk7.Position = UDim2.new(0.01, 0, 0.6, 0)
 
@@ -256,7 +256,7 @@ end)
 
 idk8.Parent = Frame
 
-idk8.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk8.BackgroundColor3 = Color3.fromRGB(255, 198, 0)
 
 idk8.Position = UDim2.new(0.34, 0, 0.6, 0)
 
@@ -278,7 +278,7 @@ end)
 
 idk12.Parent = Frame
 
-idk12.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk12.BackgroundColor3 = Color3.fromRGB(255, 198, 0)
 
 idk12.Position = UDim2.new(0.69, 0, 0.6, 0)
 
@@ -300,7 +300,7 @@ end)
 
 idk13.Parent = Frame
 
-idk13.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk13.BackgroundColor3 = Color3.fromRGB(255, 198, 0)
 
 idk13.Position = UDim2.new(0.34, 0, 0.8, 0)
 
@@ -322,7 +322,7 @@ end)
 
 idk14.Parent = Frame
 
-idk14.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk14.BackgroundColor3 = Color3.fromRGB(255, 198, 0)
 
 idk14.Position = UDim2.new(0.01, 0, 0.8, 0)
 
@@ -344,7 +344,7 @@ end)
 
 idk9.Parent = Frame
 
-idk9.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+idk9.BackgroundColor3 = Color3.fromRGB(255, 198, 0)
 
 idk9.Position = UDim2.new(0.69, 0, 0.2, 0)
 
@@ -366,7 +366,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/UX1qiNp8"))()
 
 close.Parent = Frame
 
-close.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+close.BackgroundColor3 = Color3.fromRGB(255, 198, 0)
 
 close.Position = UDim2.new(0.879518092, 0, 0.00832893, 0)
 
@@ -376,7 +376,7 @@ close.Font = Enum.Font.GothamBlack
 
 close.Text = "X"
 
-close.TextColor3 = Color3.new(0, 0, 255)
+close.TextColor3 = Color3.new(0, 198, 255)
 
 close.TextScaled = true
 
