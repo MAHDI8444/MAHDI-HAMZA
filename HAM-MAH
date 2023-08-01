@@ -273,7 +273,6 @@ idk8.TextSize = 20.000
 idk8.MouseButton1Down:connect(function()
 
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSHUB_Loader.lua"),true))()
-
 end)
 
 idk12.Parent = Frame
