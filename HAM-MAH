@@ -293,7 +293,8 @@ idk12.TextSize = 20.000
 
 idk12.MouseButton1Down:connect(function()
 
- loadstring(game:HttpGet('https://raw.githubusercontent.com/VEZ2/NEVAHUB/main/2'))()
+ G.HohoVersion = "v3"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
 
 end)
 
