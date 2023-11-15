@@ -292,7 +292,6 @@ idk12.TextColor3 = Color3.fromRGB(0, 0, 0)
 idk12.TextSize = 20.000
 
 idk12.MouseButton1Down:connect(function()
-
  G.HohoVersion = "v3"
 loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
 end)
